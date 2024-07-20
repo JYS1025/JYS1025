@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.jpg" alt="Yoonseong" width="150" height="150"/>
+  <img src="" alt="Yoonseong" width="150" height="150"/>
 </p>
 
 <h2 align="center">About Me</h2>
