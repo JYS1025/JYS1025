@@ -1,11 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto)
 <h1 align="center"><b>Hi there, I'm Yoonseong Jeong<b/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYS1025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center">
-  <a href="https://github.com/JYS1025"> <img src="github.png" width="50" height="50" style="margin: 0 20px;"/> </a>
-  <a href="mailto:jys1025@kaist.ac.kr"> <img src="mail.png" width="50" height="50" style="margin: 0 20px;"/> </a>
-  <a href="https://www.instagram.com/0dysse_ys"> <img src="instagram.png" width="50" height="50" style="margin: 0 20px;"/> </a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/JYS1025"><img src="github.png" width="50" height="50"/></a>
+  <a href="mailto:jys1025@kaist.ac.kr"><img src="mail.png" width="50" height="50"/></a>
+  <a href="https://www.instagram.com/0dysse_ys"><img src="instagram.png" width="50" height="50"/></a>
 </p>
-
 
 <p align="center">
   <img src="profile_square.jpg" alt="Yoonseong" width="150" height="150"/>
@@ -14,7 +16,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm a sophomore on kaist with a passion for AI, DataScience. I enjoy reading a book and love JAZZ.<br/>
+  I'm a sophomore on kaist with a passion for AI, DataScience <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRzeTVmanJ2cDN3c2Z6djZrcTRhb2FtOGpvcjZva2hoN3JvcHBtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zN2IXI0TEnalqdlCkZ/giphy.webp" width="30"><br/> I enjoy reading a book <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlwNGI5bmV3ZXg4dTkxZGpid3M5OWt1eWF0NXptZ28wdjhtZXh1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lkKD88tfMkCwf6kPji/giphy.webp" width="30"> and love JAZZ  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlmOWZmamw2Y2x5dW12d3Y4MndndjczdzkwNTJ6ZjR3amg4cWxydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGTD6da1CoUXktwWCa/giphy.webp" width="30"><br/>
   I'm always eager to learn new things and take on exciting challenges.
 </p>
 
@@ -37,24 +39,7 @@
 ![JYS1025's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYS1025&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYS1025&layout=compact)](https://github.com/JYS1025/github-readme-stats)
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Baekjoon Tier</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="[Project1 URL]">
-        <img src="[Project1 Image URL]" alt="[Project1 Name]" width="200" height="150" />
-      </a>
-      <h3>[Project1 Name]</h3>
-      <p>[Project1 Description]</p>
-    </td>
-    <td align="center">
-      <a href="[Project2 URL]">
-        <img src="[Project2 Image URL]" alt="[Project2 Name]" width="200" height="150" />
-      </a>
-      <h3>[Project2 Name]</h3>
-      <p>[Project2 Description]</p>
-    </td>
-    <!-- Add more project sections as needed -->
-  </tr>
-</table>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjys1025)](https://solved.ac/jjys1025)
