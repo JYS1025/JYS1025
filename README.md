@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/JYS1025">JYS1025</a> | 
   <a href="mailto:jys1025@kaist.ac.kr">Mail</a>
-  <a href="">JYS1025</a>
+  <a href="https://www.instagram.com/0dysse_ys">Instagram</a>
 </p>
 
 <p align="center">
