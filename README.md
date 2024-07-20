@@ -1,37 +1,40 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Yoonseong Jeong 👋</h1>
 
 <p align="center">
-  <a href="[Your Portfolio URL]">[Your Name]</a> | 
-  <a href="mailto:[Your Email]">[Your Email]</a> |
-  <a href="[Your LinkedIn URL]">LinkedIn</a> |
-  <a href="[Your Twitter URL]">Twitter</a>
+  <a href="https://github.com/JYS1025">JYS1025</a> | 
+  <a href="mailto:jys1025@kaist.ac.kr">Mail</a>
+  <a href="">JYS1025</a>
 </p>
 
 <p align="center">
-  <img src="[Your Profile Picture URL]" alt="[Your Name]" width="150" height="150" />
+  <img src="[Your Profile Picture URL]" alt="Yoonseong" width="150" height="150" />
 </p>
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm a [Your Job Title] with a passion for [Your Interests]. I enjoy [Your Hobbies] and love to [Your Passion]. 
+  I'm a sophomore on kaist with a passion for AI, DataScience. I enjoy reading a book and love JAZZ.<br/>
   I'm always eager to learn new things and take on exciting challenges.
 </p>
 
 <h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/[Tech1]-[Tech1Color]?style=for-the-badge&logo=[Tech1Logo]&logoColor=white" alt="[Tech1]" />
-  <img src="https://img.shields.io/badge/[Tech2]-[Tech2Color]?style=for-the-badge&logo=[Tech2Logo]&logoColor=white" alt="[Tech2]" />
-  <img src="https://img.shields.io/badge/[Tech3]-[Tech3Color]?style=for-the-badge&logo=[Tech3Logo]&logoColor=white" alt="[Tech3]" />
-  <!-- Add more technology badges as needed -->
-</p>
-
+<div align="center">
+  
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<div/>
 <h2 align="center">My GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=[Your Preferred Theme]" alt="[Your Name]'s GitHub Stats" />
-</p>
+![JYS1025's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYS1025&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYS1025&layout=compact)](https://github.com/JYS1025/github-readme-stats)
 
 <h2 align="center">Featured Projects</h2>
 
