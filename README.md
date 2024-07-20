@@ -1,13 +1,14 @@
-<h1 align="center">Hi there, I'm Yoonseong Jeong 👋</h1>
+<h1 align="center"><b>Hi there, I'm Yoonseong Jeong<b/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  
   <a href="https://github.com/JYS1025">JYS1025</a> | 
-  <a href="mailto:jys1025@kaist.ac.kr">Mail</a>
+  <a href="mailto:jys1025@kaist.ac.kr">Mail</a> |
   <a href="https://www.instagram.com/0dysse_ys">Instagram</a>
 </p>
 
 <p align="center">
-  <img src="" alt="Yoonseong" width="150" height="150"/>
+  <img src="profile_square.jpg" alt="Yoonseong" width="150" height="150"/>
 </p>
 
 <h2 align="center">About Me</h2>
