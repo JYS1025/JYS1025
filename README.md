@@ -14,8 +14,6 @@
   <img src="profile_square.jpg" alt="Yoonseong" width="150" height="150"/>
 </p>
 
-![](https://img.shields.io/badge/KAIST-%23006A8E.svg?style=for-the-badge&logo=kaist&logoColor=white)
-
 <h2 align="center">About Me</h2>
 
 <p align="center">
