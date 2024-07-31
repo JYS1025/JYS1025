@@ -1,3 +1,4 @@
+<img src="./computer.gif" width="100%"/>
 <h1 align="center"><b>Hi there, I'm Yoonseong Jeong<b/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYS1025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -56,7 +57,7 @@
 <div/>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact Me
 <p align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/JYS1025"><img src="https://img.shields.io/badge/-JYS1025-211F1F?style=flat&logo=Github&logoColor=white"/></a>
   <a href="mailto:jys1025@kaist.ac.kr"><img src="https://img.shields.io/badge/-jys1025@kaist.ac.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
