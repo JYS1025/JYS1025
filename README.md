@@ -9,12 +9,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<p align="left">
-  🤖 I'm a sophomore on kaist with a passion for AI, DataScience  <br/>
-  📖 I enjoy reading a book and love JAZZ <br/>
-  💎 I'm always eager to learn new things and take on exciting challenges.
-</p>
-  
+<div>
+<!-- <img src="./message.gif" width="20%" align="right"> -->
+
+🤖 I'm a sophomore on kaist with a passion for AI, DataScience  <br/>
+📖 I enjoy reading a book and love JAZZ <br/>
+💎 I'm always eager to learn new things and take on exciting challenges.
+</div>
+
 <h3 align="left">⚙️&nbsp;My GitHub Stats</h3>
 <p align="center">
 <a href="https://github.com/JYS1025/github-readme-stats">
