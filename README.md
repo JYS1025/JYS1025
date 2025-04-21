@@ -1,7 +1,6 @@
 <img src="./computer.gif" width="100%"/>
 <h1 align="center"><b>Hi there, I'm Yoonseong Jeong<b/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYS1025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <p align="center">
   <img src="profile_square.jpg" alt="Yoonseong" width="150" height="150"/>
