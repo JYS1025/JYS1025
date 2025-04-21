@@ -27,13 +27,6 @@
 </a>
 </p>
 
-<h3 align="left">🏆&nbsp;Baekjoon Tier</h2>
-<p align="center">
-  <a href="https://solved.ac/jjys1025">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjys1025" alt="Solved.ac 프로필">
-  </a>
-</p>
-
 <h2></h2>
 <h3 align="center">🛠&nbsp;Tech Stack</h3>
 <div align="center">
