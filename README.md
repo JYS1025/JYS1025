@@ -11,22 +11,11 @@
 <div>
 <!-- <img src="./message.gif" width="20%" align="right"> -->
 
-🤖 I'm a sophomore on kaist with a passion for AI, DataScience  <br/>
+🤖 I'm a junior on KAIST with a passion for AI, DataScience  <br/>
 📖 I enjoy reading a book and love JAZZ <br/>
 💎 I'm always eager to learn new things and take on exciting challenges.
 </div>
 
-<h3 align="left">⚙️&nbsp;My GitHub Stats</h3>
-<p align="center">
-<a href="https://github.com/JYS1025/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JYS1025" />
-</a>
-<a href="https://github.com/JYS1025/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JYS1025&layout=compact&langs_count=8&card_width=320" />
-</a>
-</p>
-
-<h2></h2>
 <h3 align="center">🛠&nbsp;Tech Stack</h3>
 <div align="center">
   
