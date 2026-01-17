@@ -15,6 +15,10 @@
   <a href="https://github.com/JYS1025"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:jys1025@kaist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/0dysse_ys"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+  <a href="https://jys1025.github.io/">
+    <img src="https://img.shields.io/badge/Visit_Portfolio_&_Blog-View_Projects-006d77?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
 </div>
 
 ### <img src="https://img.shields.io/badge/Research_Interests-181717?style=for-the-badge&logo=openai&logoColor=white"/>
