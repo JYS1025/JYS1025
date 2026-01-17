@@ -17,8 +17,6 @@
   <a href="https://instagram.com/0dysse_ys"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </div>
 
-<br/><br/>
-
 ### <img src="https://img.shields.io/badge/Research_Interests-181717?style=for-the-badge&logo=openai&logoColor=white"/>
 
 My goal is to understand the essence of intelligence through mathematical and biological lenses.
@@ -26,6 +24,31 @@ My goal is to understand the essence of intelligence through mathematical and bi
 * **Generative Models** <br/> Discrete Diffusion Language Models (DLMs), Score-based Generative Models.
 * **Neuroscience & AGI** <br/> Bridging Brain Science (Neural Dynamics) and Artificial General Intelligence.
 * **Mathematical Foundations** <br/> Information Geometry, Sampling Theory (DPM-Solver).
+
+<br/>
+
+### <img src="https://img.shields.io/badge/Research_Experience-181717?style=for-the-badge&logo=arxiv&logoColor=white"/>
+
+**Big Data Analytics and Learning (BigDyL) @ KAIST**
+* *Advisor: Prof. Noseong Park*
+* **Topic:** Sampler Acceleration for Diffusion Language Models using Riemannian Geometry.
+* **Details:** Investigated geometric structures of discrete data manifolds to design efficient sampling algorithms for DLMs.
+
+**Brain x Machine Intelligence Lab (BMI Lab) @ KAIST**
+* *Advisor: Prof. Sang Wan Lee*
+* **Topic:** Decoding Cognitive States via Deep Neural Experimenter.
+* **Details:** Visualized attention maps to analyze subject's cognitive decoding process. Studied the dynamics of cognitive states under One-shot and Incremental learning conditions.
+
+<details>
+<summary><b>Pre-University Research Projects</b></summary>
+<br/>
+<ul>
+  <li>Mathematical modeling of epidemic spread (COVID-19).</li>
+  <li>Analysis of viscous coefficients via floating body motion between fluids.</li>
+  <li>Acoustic conversion analysis of periodic shockwaves.</li>
+  <li>Design of dynamic protection mechanisms for falling objects.</li>
+</ul>
+</details>
 
 <br/>
 
@@ -59,12 +82,7 @@ I find inspiration in classical literature and philosophical discourse.
 
 * **Philosophy** — Kant (*Critique of Pure Reason*), Nietzsche, Camus, Foucault.
 * **Literature** — *The Sorrows of Young Werther*, *The Stranger*, *Siddhartha*, *The Judgment*, *Status Anxiety*.
-* **Music** — Jazz enthusiast.
 
-<br/>
 <br/>
 
 ---
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JYS1025&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
