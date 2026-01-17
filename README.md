@@ -9,7 +9,7 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/🏆_KAIST_Dean's_List_Honors_(2025_Spring_%26_Fall)-181717?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🏆_KAIST_Dean's_List_Honors_(2025_Spring_%26_Fall)-004191?style=for-the-badge&logoColor=white"/>
   </p>
 
   <a href="https://github.com/JYS1025"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -43,10 +43,12 @@ My goal is to understand the essence of intelligence through mathematical and bi
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white"/>
 </div>
 
 <br/>
@@ -64,5 +66,5 @@ I find inspiration in classical literature and philosophical discourse.
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYS1025&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=JYS1025&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
