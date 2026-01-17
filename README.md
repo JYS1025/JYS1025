@@ -64,5 +64,5 @@ I find inspiration in classical literature and philosophical discourse.
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JYS1025&show_icons=true&theme=graywhite&hide_border=true" alt="JYS1025's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYS1025&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs" />
 </div>
