@@ -36,8 +36,8 @@ My goal is to understand the essence of intelligence through mathematical and bi
 
 **Big Data Analytics and Learning (BigDyL) @ KAIST**
 * *Advisor: Prof. Noseong Park*
-* **Topic:** Sampler Acceleration for Diffusion Language Models using Riemannian Geometry.
-* **Details:** Investigated geometric structures of discrete data manifolds to design efficient sampling algorithms for DLMs.
+* **Topic:** Sampler Acceleration for Diffusion Language Models.
+* **Details:** Design efficient sampling algorithms for DLMs.
 
 **Brain x Machine Intelligence Lab (BMI Lab) @ KAIST**
 * *Advisor: Prof. Sang Wan Lee*
