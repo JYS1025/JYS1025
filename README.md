@@ -34,7 +34,12 @@ My goal is to understand the essence of intelligence through mathematical and bi
 
 ### <img src="https://img.shields.io/badge/Research_Experience-181717?style=for-the-badge&logo=arxiv&logoColor=white"/>
 
-**Big Data Analytics and Learning (BigDyL) @ KAIST**
+**Algorithmic Intelligence Lab (ALIN Lab) @ KAIST**
+* *Advisor: Prof. Jinwoo Shin*
+* **Topic:** On policy self distilation for GUI Agent
+* **Details:** TBD
+
+**Big Data Analytics and Learning Lab (BigDyL Lab) @ KAIST**
 * *Advisor: Prof. Noseong Park*
 * **Topic:** Sampler Acceleration for Diffusion Language Models.
 * **Details:** Design efficient sampling algorithms for DLMs.
@@ -43,25 +48,6 @@ My goal is to understand the essence of intelligence through mathematical and bi
 * *Advisor: Prof. Sang Wan Lee*
 * **Topic:** Decoding Cognitive States via Deep Neural Experimenter.
 * **Details:** Visualized attention maps to analyze subject's cognitive decoding process. Studied the dynamics of cognitive states under One-shot and Incremental learning conditions.
-
-<details>
-<summary><b>Pre-University Research Projects</b></summary>
-<br/>
-<ul>
-  <li>Mathematical modeling of epidemic spread (COVID-19).</li>
-  <li>Analysis of viscous coefficients via floating body motion between fluids.</li>
-  <li>Acoustic conversion analysis of periodic shockwaves.</li>
-  <li>Design of dynamic protection mechanisms for falling objects.</li>
-</ul>
-</details>
-
-<br/>
-
-### <img src="https://img.shields.io/badge/Academic_Highlights-181717?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
-* **AI & Data** : Deep Learning, Machine Learning, Database Systems.
-* **Systems & Theory** : Operating Systems, Programming Languages, Probability & Statistics.
-* **Neuroscience** : Theoretical Neuroscience, Biology of Neurons, Statistics for Brain Science.
 
 <br/>
 
