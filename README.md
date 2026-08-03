@@ -1,17 +1,19 @@
 <div align="center">
   <img src="profile_square.jpg" alt="Profile" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #eee; margin-bottom: 20px;"/>
-  
+ 
   <h1>Yoonseong Jeong</h1>
-
   <p style="color: #555;">
     <b>Senior Undergraduate Student @ KAIST, School of Computing</b><br/>
     <i>Exploring the mathematical foundations of Generative AI & General Intelligence</i>
   </p>
+ 
+  <div style="margin: 12px 0 8px 0;">
+    <img src="https://img.shields.io/badge/🏆_KAIST_Dean's_List_Honors_(2025_S)-003d7a?style=for-the-badge&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/🏆_KAIST_Dean's_List_Honors_(2025_F)-004191?style=for-the-badge&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/🏆_KAIST_Dean's_List_Honors_(2026_S)-005dc2?style=for-the-badge&logoColor=white"/>
+  </div>
+  <br>
   
-  <p>
-    <img src="https://img.shields.io/badge/🏆_KAIST_Dean's_List_Honors_(2025_Spring_%26_Fall)-004191?style=for-the-badge&logoColor=white"/>
-  </p>
-  <p>
   <a href="https://jys1025.github.io/">
     <img src="https://img.shields.io/badge/Visit_Portfolio_&_Blog-View_Projects-006d77?style=for-the-badge&logo=rocket&logoColor=white"/>
   </a>
@@ -19,7 +21,6 @@
   <a href="https://github.com/JYS1025"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:jys1025@kaist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/0dysse_ys"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
 </div>
 
 ### <img src="https://img.shields.io/badge/Research_Interests-181717?style=for-the-badge&logo=openai&logoColor=white"/>
