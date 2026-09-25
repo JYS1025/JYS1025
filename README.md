@@ -35,7 +35,7 @@ My goal is to understand the essence of intelligence through mathematical and bi
 
 ### <img src="https://img.shields.io/badge/Research_Experience-181717?style=for-the-badge&logo=arxiv&logoColor=white"/>
 
-**Algorithmic Intelligence Lab (ALIN Lab) @ KAIST**
+**Algorithmic General Intelligence Lab (AGI-Lab) @ KAIST**
 * *Advisor: Prof. Jinwoo Shin*
 * **Topic:** On policy self distilation for GUI Agent
 * **Details:** TBD
